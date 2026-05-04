@@ -1,0 +1,48 @@
+name: CI Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test-and-train:
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.10
+
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run Linting
+      run: |
+        flake8 src/
+
+    - name: Download Dataset
+      run: |
+        python src/data_download.py
+
+    - name: Preprocess Data
+      run: |
+        python src/data_preprocessing.py
+
+    - name: Train Model
+      run: |
+        python src/train.py
+
+    - name: Run Unit Tests
+      run: |
+        pytest

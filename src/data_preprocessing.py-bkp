@@ -1,0 +1,71 @@
+import os
+import pandas as pd
+
+# Create processed directory
+os.makedirs("data/processed", exist_ok=True)
+
+# Load dataset
+df = pd.read_csv("data/raw/heart.csv")
+
+# Replace '?' with NaN
+df.replace("?", pd.NA, inplace=True)
+
+# Convert numeric columns properly
+numeric_columns = [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal",
+    "target"
+]
+
+for col in numeric_columns:
+    df[col] = pd.to_numeric(df[col], errors="coerce")
+
+# Check missing values
+print("Missing values before cleaning:")
+print(df.isnull().sum())
+
+# Fill missing values safely (no chained assignment)
+for col in df.columns:
+    if pd.api.types.is_numeric_dtype(df[col]):
+        df[col] = df[col].fillna(df[col].median())
+    else:
+        df[col] = df[col].fillna(df[col].mode()[0])
+
+# Encode categorical columns
+categorical_columns = [
+    "sex",
+    "cp",
+    "fbs",
+    "restecg",
+    "exang",
+    "slope",
+    "ca",
+    "thal"
+]
+
+for col in categorical_columns:
+    df[col] = df[col].astype("category").cat.codes
+
+# Convert target to binary
+# UCI target values: 0=no disease, 1-4=disease
+df["target"] = df["target"].apply(lambda x: 0 if x == 0 else 1)
+
+# Save processed dataset
+df.to_csv("data/processed/heart_cleaned.csv", index=False)
+
+print("\nPreprocessing completed successfully!")
+print("\nMissing values after cleaning:")
+print(df.isnull().sum())
+print("\nDataset shape:", df.shape)
+print(df.head())
