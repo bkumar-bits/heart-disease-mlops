@@ -10,3 +10,4 @@ pytest
 requests
 jupyter
 ipykernel
+flake8
