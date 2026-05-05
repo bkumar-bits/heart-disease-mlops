@@ -1,0 +1,324 @@
+2026-05-04 17:39:33,224 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 17:39:33,250 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:12:52,127 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:12:52,160 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:12:59,577 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:12:59,607 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:00,186 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:00,208 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:00,573 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:00,601 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:00,766 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:00,795 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:00,962 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:00,990 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:01,146 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:01,175 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:01,320 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:01,348 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:01,519 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:01,550 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:01,711 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:01,740 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:01,891 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:01,920 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:02,073 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:02,104 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:02,249 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:02,282 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:02,376 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:02,401 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:02,555 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:02,582 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:02,712 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:02,746 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:02,851 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:02,881 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:03,022 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:03,052 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:03,160 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:03,189 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:03,351 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:03,382 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:03,498 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:03,525 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:03,669 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:03,702 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:03,826 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:03,857 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:03,984 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:04,006 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:04,145 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:04,173 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:04,293 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:04,323 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:04,460 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:04,489 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:04,634 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:04,665 - Prediction: 0, Confidence: 0.665
+2026-05-04 19:13:04,794 - Prediction request received: age=63.0 sex=1.0 cp=3.0 trestbps=145.0 chol=233.0 fbs=1.0 restecg=0.0 thalach=150.0 exang=0.0 oldpeak=2.3 slope=0.0 ca=0.0 thal=1.0
+2026-05-04 19:13:04,823 - Prediction: 0, Confidence: 0.665
+2026-05-05 11:53:51,692 - Prediction request received: age=58.0 sex=0.0 cp=2.0 trestbps=130.0 chol=197.0 fbs=0.0 restecg=1.0 thalach=131.0 exang=0.0 oldpeak=0.6 slope=1.0 ca=0.0 thal=2.0
+2026-05-05 11:53:51,725 - Prediction: 0, Confidence: 0.695952380952381
+2026-05-05 11:54:11,139 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:54:11,171 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 11:54:15,837 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:54:15,864 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 11:54:29,588 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 11:54:29,618 - Prediction: 1, Confidence: 0.92
+2026-05-05 11:54:44,543 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 11:54:44,568 - Prediction: 1, Confidence: 0.92
+2026-05-05 11:54:44,790 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 11:54:44,817 - Prediction: 1, Confidence: 0.92
+2026-05-05 11:54:44,976 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 11:54:44,999 - Prediction: 1, Confidence: 0.92
+2026-05-05 11:54:45,172 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 11:54:45,197 - Prediction: 1, Confidence: 0.92
+2026-05-05 11:54:45,315 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 11:54:45,338 - Prediction: 1, Confidence: 0.92
+2026-05-05 11:54:45,494 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 11:54:45,517 - Prediction: 1, Confidence: 0.92
+2026-05-05 11:54:45,643 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 11:54:45,666 - Prediction: 1, Confidence: 0.92
+2026-05-05 11:54:45,802 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 11:54:45,830 - Prediction: 1, Confidence: 0.92
+2026-05-05 11:54:45,942 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 11:54:45,966 - Prediction: 1, Confidence: 0.92
+2026-05-05 11:54:46,101 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 11:54:46,134 - Prediction: 1, Confidence: 0.92
+2026-05-05 11:54:46,247 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 11:54:46,274 - Prediction: 1, Confidence: 0.92
+2026-05-05 11:54:46,398 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 11:54:46,421 - Prediction: 1, Confidence: 0.92
+2026-05-05 11:54:46,548 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 11:54:46,567 - Prediction: 1, Confidence: 0.92
+2026-05-05 11:54:46,697 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 11:54:46,723 - Prediction: 1, Confidence: 0.92
+2026-05-05 11:54:50,292 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:54:50,315 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:01,442 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:01,470 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:01,781 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:01,804 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:01,968 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:01,997 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:02,143 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:02,165 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:02,303 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:02,330 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:02,485 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:02,515 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:02,826 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:02,850 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:02,987 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:03,016 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:03,159 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:03,190 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:03,355 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:03,378 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:03,518 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:03,543 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:03,667 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:03,691 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:03,827 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:03,855 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:03,984 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:04,011 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:04,117 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:04,143 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:04,277 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:04,293 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:04,433 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:04,459 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:04,575 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:04,598 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:04,725 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:04,748 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:04,868 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:04,892 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:05,027 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:05,050 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:05,183 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:05,205 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:07,220 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:07,247 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:07,366 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:07,397 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:07,538 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:07,561 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:07,684 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:07,713 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:07,834 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:07,857 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:07,992 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:08,014 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:08,160 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:08,188 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:08,303 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:08,328 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:10,217 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:10,242 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:10,380 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:10,408 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:10,539 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:10,565 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:10,686 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:10,712 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:10,846 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:10,869 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:11,000 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:11,031 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:11,151 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:11,174 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:11,310 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:11,333 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:11,470 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:11,493 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:11,644 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:11,666 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:11,800 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:11,827 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:11,969 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:11,993 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:12,147 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:12,168 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:12,318 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:12,342 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:12,500 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:12,523 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:12,670 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:12,693 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:12,842 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:12,865 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:13,033 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:13,058 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:13,229 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:13,249 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:13,408 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:13,431 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:13,575 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:13,596 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:13,751 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:13,780 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:13,969 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:13,996 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:14,138 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:14,162 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:14,331 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:14,349 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:14,493 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:14,518 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:14,692 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:14,715 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:14,866 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:14,890 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:15,051 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:15,081 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:15,241 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:15,264 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:15,400 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:15,429 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:15,587 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:15,618 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:15,758 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:15,791 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:15,952 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:15,982 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:16,130 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:16,153 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:16,301 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:16,329 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:16,479 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:16,503 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:16,662 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:16,691 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:16,825 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:16,848 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:16,985 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:17,016 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:17,172 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:17,200 - Prediction: 0, Confidence: 0.625
+2026-05-05 11:55:17,333 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 11:55:17,351 - Prediction: 0, Confidence: 0.625
+2026-05-05 12:07:54,186 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 12:07:54,212 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 12:07:58,821 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 12:07:58,847 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 12:07:59,000 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 12:07:59,031 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 12:07:59,181 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 12:07:59,207 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 12:07:59,330 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 12:07:59,355 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 12:07:59,478 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 12:07:59,512 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 12:07:59,628 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 12:07:59,649 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 12:07:59,768 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 12:07:59,797 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 12:07:59,894 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 12:07:59,914 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 12:08:00,034 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 12:08:00,064 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 12:08:00,176 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 12:08:00,198 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 12:08:00,329 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 12:08:00,357 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 12:08:00,469 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 12:08:00,496 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 12:08:00,602 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 12:08:00,634 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 12:08:00,734 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 12:08:00,756 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 12:08:00,881 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 12:08:00,914 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 12:08:01,038 - Prediction request received: age=45.0 sex=1.0 cp=1.0 trestbps=120.0 chol=236.0 fbs=0.0 restecg=1.0 thalach=178.0 exang=0.0 oldpeak=0.8 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 12:08:01,074 - Prediction: 0, Confidence: 0.6091666666666666
+2026-05-05 13:15:05,826 - Prediction request received: age=58.0 sex=0.0 cp=2.0 trestbps=130.0 chol=197.0 fbs=0.0 restecg=1.0 thalach=131.0 exang=0.0 oldpeak=0.6 slope=1.0 ca=0.0 thal=2.0
+2026-05-05 13:15:05,851 - Prediction: 0, Confidence: 0.695952380952381
+2026-05-05 13:15:07,160 - Prediction request received: age=58.0 sex=0.0 cp=2.0 trestbps=130.0 chol=197.0 fbs=0.0 restecg=1.0 thalach=131.0 exang=0.0 oldpeak=0.6 slope=1.0 ca=0.0 thal=2.0
+2026-05-05 13:15:07,193 - Prediction: 0, Confidence: 0.695952380952381
+2026-05-05 13:15:07,320 - Prediction request received: age=58.0 sex=0.0 cp=2.0 trestbps=130.0 chol=197.0 fbs=0.0 restecg=1.0 thalach=131.0 exang=0.0 oldpeak=0.6 slope=1.0 ca=0.0 thal=2.0
+2026-05-05 13:15:07,351 - Prediction: 0, Confidence: 0.695952380952381
+2026-05-05 13:15:07,470 - Prediction request received: age=58.0 sex=0.0 cp=2.0 trestbps=130.0 chol=197.0 fbs=0.0 restecg=1.0 thalach=131.0 exang=0.0 oldpeak=0.6 slope=1.0 ca=0.0 thal=2.0
+2026-05-05 13:15:07,494 - Prediction: 0, Confidence: 0.695952380952381
+2026-05-05 13:15:16,167 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 13:15:16,197 - Prediction: 1, Confidence: 0.92
+2026-05-05 13:15:16,328 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 13:15:16,351 - Prediction: 1, Confidence: 0.92
+2026-05-05 13:15:16,485 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 13:15:16,518 - Prediction: 1, Confidence: 0.92
+2026-05-05 13:15:16,628 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 13:15:16,655 - Prediction: 1, Confidence: 0.92
+2026-05-05 13:15:16,787 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 13:15:16,819 - Prediction: 1, Confidence: 0.92
+2026-05-05 13:15:16,927 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 13:15:16,956 - Prediction: 1, Confidence: 0.92
+2026-05-05 13:15:17,080 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 13:15:17,112 - Prediction: 1, Confidence: 0.92
+2026-05-05 13:15:17,230 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 13:15:17,260 - Prediction: 1, Confidence: 0.92
+2026-05-05 13:15:17,369 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 13:15:17,403 - Prediction: 1, Confidence: 0.92
+2026-05-05 13:15:17,518 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 13:15:17,549 - Prediction: 1, Confidence: 0.92
+2026-05-05 13:15:17,659 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 13:15:17,692 - Prediction: 1, Confidence: 0.92
+2026-05-05 13:15:17,953 - Prediction request received: age=67.0 sex=1.0 cp=4.0 trestbps=160.0 chol=286.0 fbs=1.0 restecg=0.0 thalach=108.0 exang=1.0 oldpeak=1.5 slope=1.0 ca=3.0 thal=3.0
+2026-05-05 13:15:17,977 - Prediction: 1, Confidence: 0.92
+2026-05-05 13:15:27,273 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 13:15:27,306 - Prediction: 0, Confidence: 0.625
+2026-05-05 13:15:27,747 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 13:15:27,780 - Prediction: 0, Confidence: 0.625
+2026-05-05 13:15:27,926 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 13:15:27,961 - Prediction: 0, Confidence: 0.625
+2026-05-05 13:15:28,095 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 13:15:28,127 - Prediction: 0, Confidence: 0.625
+2026-05-05 13:15:28,267 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 13:15:28,295 - Prediction: 0, Confidence: 0.625
+2026-05-05 13:15:28,446 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 13:15:28,480 - Prediction: 0, Confidence: 0.625
+2026-05-05 13:15:28,624 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 13:15:28,655 - Prediction: 0, Confidence: 0.625
+2026-05-05 13:15:28,779 - Prediction request received: age=52.0 sex=0.0 cp=3.0 trestbps=138.0 chol=223.0 fbs=0.0 restecg=1.0 thalach=169.0 exang=0.0 oldpeak=0.0 slope=2.0 ca=0.0 thal=2.0
+2026-05-05 13:15:28,804 - Prediction: 0, Confidence: 0.625

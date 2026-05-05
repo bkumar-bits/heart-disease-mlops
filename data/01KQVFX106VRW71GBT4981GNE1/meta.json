@@ -1,0 +1,18 @@
+{
+	"ulid": "01KQVFX106VRW71GBT4981GNE1",
+	"minTime": 1777953600000,
+	"maxTime": 1777960800000,
+	"stats": {
+		"numSamples": 5795,
+		"numFloatSamples": 5795,
+		"numSeries": 5,
+		"numChunks": 46
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01KQVFX106VRW71GBT4981GNE1"
+		]
+	},
+	"version": 1
+}
